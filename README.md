@@ -9,7 +9,7 @@ The data was collected from Kaggle (https://www.kaggle.com/clmentbisaillon/fake-
 * Ahmed H, Traore I, Saad S. “Detecting opinion spams and fake news using text classification”, Journal of Security and Privacy, Volume 1, Issue 1, Wiley, January/February 2018.
 * Ahmed H, Traore I, Saad S. (2017) “Detection of Online Fake News Using N-Gram Analysis and Machine Learning Techniques. In: Traore I., Woungang I., Awad A. (eds) Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments. ISDDC 2017. Lecture Notes in Computer Science, vol 10618. Springer, Cham (pp. 127-138).
 
-The data was initially split into two *filename.csv* files each containing respectively the data for 'True' news and 'Fake' news. We added a label column to each dataframe and merged the data into a single dataframe. The original dataset can be found in **./data/rawdata** and the merged data in **./data/cleandata**
+The data was initially split into two *filename.csv* files each containing respectively the data for 'True' news and 'Fake' news. We added a label column to each dataframe and merged the data into a single dataframe. The original datasets should be downloaded in **./data/rawdata** and the merged/tranformed data in **./data/cleandata** using the two first notebooks.
 
 Requirements
 ------------
