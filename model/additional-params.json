@@ -1,0 +1,1 @@
+{"threshold": 0.030055705457925797, "loss_type": "logistic", "metrics_params": {"eps_insensitive_loss_type": null, "class_weights": null, "huber_delta": null, "quantile": null, "loss_insensitivity": null, "positive_example_weight_mult": 1.0, "accuracy_top_k": 3, "threshold": 0.030055705457925797, "f_beta": 1.0, "margin": null}, "predictor_type": "binary_classifier"}
